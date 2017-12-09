@@ -1,0 +1,25 @@
+Read first before run the program(Follow the steps below)
+
+The program username is "Jeffnyap"  and the password is "Iambicycleseller123"
+
+1. Install all the software inside the MySQL folder.
+
+2. After that ,open wamp server.
+
+3.Then ,open the MySQL query browser.
+
+4.After that, the server host must be "localhost",the username must be "root"
+ and the default schema must be "yys"
+
+5.Inside the MySQL query browser, press the file menu, select 
+ open the script, choose the text file inside the PSP0201 SQL database folder
+ which is called CD.
+
+6.After select the text file, press Open button.
+
+7.Then press the execute button . The button looks like a thunder logo
+ with green background colour.
+
+8. Then, on the right hand side, you will see a database name which
+ is called "yys" and a table name "CD" which is used to stored the customer data.
+
